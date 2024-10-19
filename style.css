@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    background-color: #e3f2fd;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    
+}
+
+.logo img {
+    width: 48px;
+}
+
+header .chip {
+    width: 60px;
+}
+
+
